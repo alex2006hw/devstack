@@ -1,4 +1,4 @@
-FROM clouderg/duubuntu14
+FROM clouderg/dsubuntu14
 MAINTAINER Clouderg Admin <admin@clouderg.com>
 
 # Update package list, upgrade
