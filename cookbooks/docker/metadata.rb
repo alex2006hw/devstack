@@ -1,0 +1,10 @@
+name             "docker"
+maintainer       "Clouderg Admin"
+maintainer_email "admin@clouderg.com"
+license          "MIT"
+description      "Install Docker on Ubuntu based on the official instructions."
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version          "0.1.1"
+recipe           "docker", "Installs docker"
+depends          "apt"
+supports         "ubuntu"
