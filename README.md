@@ -6,6 +6,7 @@ Complete docker development stack inside a vagrant image.
 resources:
 [Docker](https://www.docker.com/)
 [Vagrant](https://www.vagrantup.com/)
+[NodeJS](http://nodejs.org/)
 
 
 credits:
