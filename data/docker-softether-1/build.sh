@@ -1,1 +1,1 @@
-docker build -t onztv/softether-1 .
+docker build -t cobjet/softether .

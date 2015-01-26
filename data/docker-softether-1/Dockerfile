@@ -1,7 +1,7 @@
 # SoftEther VPN server
 
-FROM clouderg/dubuntu14
-MAINTAINER admin@onztv.com
+FROM clouderg/dsubuntu14
+MAINTAINER admin@cobjet.com
 
 RUN apt-get update &&\
         apt-get -y -q install gcc make wget
